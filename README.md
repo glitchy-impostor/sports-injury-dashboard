@@ -6,7 +6,7 @@
 
 ## 🐂 What Is This?
 
-An interactive data visualization dashboard that answers a simple question:
+An [interactive data visualization dashboard](https://glitchy-impostor.github.io/sports-injury-dashboard/) that answers a simple question:
 
 > **If you step onto a field / court / ring / bull right now, how likely are you to get hurt in the next 60 seconds?**
 
